@@ -101,13 +101,42 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukesh-m14&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-m14&theme=dark" alt="GitHub Streak" />
-</p>
+<!-- GitHub Stats Section -->
+<section style="text-align: center; background-color: #0d1117; padding: 40px 20px; color: white; font-family: Arial, sans-serif;">
+  <h2 style="font-size: 32px; margin-bottom: 20px;">📊 GitHub Stats</h2>
+
+  <!-- GitHub Stats Card -->
+  <div style="max-width: 800px; margin: 0 auto 20px auto;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mukesh-m14&show_icons=true&theme=radical&border_radius=12&hide_border=false&include_all_commits=true&count_private=true" 
+      alt="Mukesh's GitHub Stats"
+      style="width: 100%; border-radius: 12px; border: 1px solid #30363d;"
+    />
+  </div>
+
+  <!-- Top Languages -->
+  <div style="max-width: 800px; margin: 0 auto 20px auto;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh-m14&layout=compact&theme=radical&border_radius=12&hide_border=false" 
+      alt="Mukesh's Top Languages"
+      style="width: 100%; border-radius: 12px; border: 1px solid #30363d;"
+    />
+  </div>
+
+  <!-- Profile Summary with Border -->
+  <div style="max-width: 800px; margin: 0 auto 20px auto;">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukesh-m14&theme=radical" 
+      alt="Mukesh's GitHub Summary"
+      style="width: 100%; border-radius: 12px; border: 1px solid #30363d;"
+    />
+  </div>
+
+  <!-- GitHub Streak with Radical Theme -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-m14&theme=radical&border_radius=12&hide_border=false" alt="GitHub Streak" style="border-radius: 12px; border: 1px solid #30363d;" />
+  </p>
+</section>
 
 ---
 <h2>🌐 Connect with Me</h2>
